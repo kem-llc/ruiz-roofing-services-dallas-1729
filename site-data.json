@@ -1,0 +1,330 @@
+{
+  "business": {
+    "name": "Ruiz Roofing Services",
+    "shortName": "Ruiz Roofing",
+    "tagline": "Craftsmanship That Stands the Test of Time",
+    "niche": "Carpenter",
+    "phone": "(214) 449-1729",
+    "address": "1827 Richardson Ave, Dallas, TX 75215",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
+    "ctaLabel": "Get a Free Estimate",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Ruiz Roofing Services | Expert Carpenter in Dallas, TX | Custom Woodwork",
+    "description": "Ruiz Roofing Services offers premium carpentry in Dallas, TX. From custom framing to trim work, we deliver quality craftsmanship. Call (214) 449-1729 for a free estimate."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Trusted Dallas Carpenter Since 2005",
+      "headline": "Expert Carpentry Services for Your Home or Business",
+      "subheadline": "From custom shelving to structural framing, we bring precision and passion to every project. 5-star rated, fully licensed, and committed to your satisfaction.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "View Our Work"
+    },
+    "stats": [
+      {
+        "value": "200+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "18+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "50+",
+        "label": "Repeat Clients"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Custom Carpentry",
+        "title": "Transform Your Space with Bespoke Woodwork",
+        "body": "Whether you need built-in bookshelves, a custom deck, or intricate crown molding, our team delivers flawless results. We use premium materials and time-tested techniques to create pieces that enhance your home's beauty and value.",
+        "bullets": [
+          "Tailored designs to match your style",
+          "Premium hardwoods and finishes",
+          "Seamless integration with existing architecture"
+        ],
+        "reverse": false,
+        "cardLabel": "Highlight",
+        "cardTitle": "Built to Last",
+        "cardBody": "Every joint is hand-fitted, every surface sanded to perfection. Our work withstands Dallas weather and daily use."
+      },
+      {
+        "eyebrow": "Repair & Restoration",
+        "title": "Revive Your Home's Original Charm",
+        "body": "From rotting window frames to creaky stairs, we restore your home's character with expert repairs. Our team matches existing styles and materials so repairs blend seamlessly.",
+        "bullets": [
+          "Rot and water damage repair",
+          "Window and door restoration",
+          "Staircase and railing fixes"
+        ],
+        "reverse": true,
+        "cardLabel": "Service",
+        "cardTitle": "Same-Day Estimates",
+        "cardBody": "Call us for a prompt, no-obligation assessment. We'll diagnose the issue and provide a clear quote."
+      }
+    ],
+    "whyTitle": "Why Choose Ruiz Roofing Services?",
+    "whyChooseUs": [
+      {
+        "title": "Master Craftsmanship",
+        "description": "Every cut, joint, and finish is executed with precision honed over 18 years. We don't cut corners — we build quality into every project."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "You'll receive a detailed written estimate before any work begins. No hidden fees, no surprises."
+      },
+      {
+        "title": "Reliable & Punctual",
+        "description": "We show up on time and finish on schedule. Your time is valuable, and we respect it."
+      },
+      {
+        "title": "Fully Licensed & Insured",
+        "description": "Work with confidence knowing our team carries full liability insurance and all required licenses for Dallas and surrounding areas."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Ruiz Roofing transformed our outdated kitchen with custom cabinets. The attention to detail was incredible — every drawer glides smoothly, and the finish is flawless.",
+        "author": "Maria L.",
+        "role": "Lakewood Homeowner"
+      },
+      {
+        "quote": "We hired them to repair our front porch after storm damage. They matched the original wood perfectly and had it looking better than new. Highly recommend!",
+        "author": "James T.",
+        "role": "Oak Lawn Resident"
+      },
+      {
+        "quote": "Professional, fair pricing, and outstanding work. They built a custom deck for us that has become our favorite outdoor space. Will definitely use them again.",
+        "author": "Angela R.",
+        "role": "Uptown Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Start Your Project?",
+      "subheadline": "Call or click for a free, no-obligation estimate. We'll bring your vision to life.",
+      "primaryCta": "Call (214) 449-1729",
+      "secondaryCta": "Get a Free Estimate"
+    }
+  },
+  "servicesPage": {
+    "intro": "From rough framing to fine finish work, our carpentry services cover every stage of your project. We work with homeowners, builders, and businesses across Dallas to create functional, beautiful woodwork that lasts."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Custom Framing & Structural Carpentry",
+      "shortDescription": "Precision framing for walls, roofs, and additions that meet code and stand strong.",
+      "longDescription": "Our framing team brings decades of experience to new construction and remodels. We handle everything from load-bearing walls to roof trusses, ensuring your structure is square, level, and built to last. We work closely with engineers and architects to execute plans accurately.",
+      "benefits": [
+        "Meets all Dallas building codes",
+        "Uses kiln-dried, graded lumber",
+        "Reduces waste with precise measurements",
+        "Seamless coordination with other trades"
+      ],
+      "process": [
+        {
+          "title": "Consultation & Planning",
+          "description": "We review blueprints or discuss your vision, take measurements, and identify material needs."
+        },
+        {
+          "title": "Material Selection & Prep",
+          "description": "We source high-quality lumber and prep the site for efficient work."
+        },
+        {
+          "title": "Framing & Inspection",
+          "description": "Our crew frames the structure, then we schedule inspections to ensure compliance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you work with homeowners for small framing projects?",
+          "answer": "Absolutely. Whether it's a new interior wall or a garage expansion, we handle projects of all sizes."
+        },
+        {
+          "question": "How long does framing typically take?",
+          "answer": "Timeline depends on scope. A simple wall can be done in a day; a full addition may take several weeks. We'll provide a schedule upfront."
+        }
+      ],
+      "slug": "custom-framing-structural-carpentry"
+    },
+    {
+      "icon": "02",
+      "title": "Custom Cabinetry & Built-Ins",
+      "shortDescription": "Beautiful, functional cabinets and shelving designed to fit your space perfectly.",
+      "longDescription": "Our custom cabinetry transforms kitchens, bathrooms, and living areas. We design and build each piece to your exact specifications, choosing from a wide range of woods, finishes, and hardware. From modern minimalist to traditional, we bring your style to life.",
+      "benefits": [
+        "Fully customizable dimensions and layout",
+        "Solid wood construction with dovetail joints",
+        "Soft-close doors and drawers available",
+        "Maximizes storage and organization"
+      ],
+      "process": [
+        {
+          "title": "Design Consultation",
+          "description": "We measure your space, discuss your needs, and create a 3D design for your approval."
+        },
+        {
+          "title": "Material & Finish Selection",
+          "description": "Choose from oak, maple, cherry, or custom finishes. We also help with hardware selection."
+        },
+        {
+          "title": "Fabrication & Installation",
+          "description": "Cabinets are built in our shop, then installed with precision. We ensure everything is level and aligned."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match existing cabinet styles?",
+          "answer": "Yes. We can replicate or complement your current cabinetry, including custom stain matching."
+        },
+        {
+          "question": "What is the typical lead time for custom cabinets?",
+          "answer": "Most projects take 4-6 weeks from design approval to installation, depending on complexity."
+        }
+      ],
+      "slug": "custom-cabinetry-built-ins"
+    },
+    {
+      "icon": "03",
+      "title": "Deck & Porch Construction",
+      "shortDescription": "Outdoor living spaces built with durable materials and expert craftsmanship.",
+      "longDescription": "Enhance your home's outdoor living with a custom deck or porch. We design and build structures that complement your architecture and landscape. Using pressure-treated lumber, cedar, or composite materials, we create spaces for relaxation and entertainment that withstand Texas weather.",
+      "benefits": [
+        "Custom design to fit your yard and lifestyle",
+        "Durable, weather-resistant materials",
+        "Built-in seating, planters, and lighting options",
+        "Includes railings, stairs, and lattice"
+      ],
+      "process": [
+        {
+          "title": "Site Assessment & Design",
+          "description": "We evaluate your yard, discuss your vision, and design a deck that meets your needs."
+        },
+        {
+          "title": "Material Selection",
+          "description": "Choose from wood or composite decking. We explain the pros and cons of each."
+        },
+        {
+          "title": "Construction & Finishing",
+          "description": "Our crew builds the deck, applies sealant or stain, and cleans up thoroughly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you build decks on uneven terrain?",
+          "description": "Yes. We can design multi-level decks or use adjustable supports to accommodate slopes."
+        },
+        {
+          "question": "How do I maintain my wood deck?",
+          "description": "We recommend annual cleaning and resealing. We can also provide maintenance services."
+        }
+      ],
+      "slug": "deck-porch-construction"
+    },
+    {
+      "icon": "04",
+      "title": "Trim, Molding & Finish Work",
+      "shortDescription": "Elegant crown molding, baseboards, wainscoting, and more to add character.",
+      "longDescription": "The details make the difference. Our finish carpentry services include crown molding, chair rails, wainscoting, window and door casings, and custom mantels. We carefully measure, cut, and install each piece to create seamless transitions and polished interiors.",
+      "benefits": [
+        "Enhances home value and aesthetics",
+        "Precise miters and coped joints",
+        "Wide selection of profiles and woods",
+        "Painting or staining included"
+      ],
+      "process": [
+        {
+          "title": "Design & Material Selection",
+          "description": "We help you choose molding profiles and wood species that match your home's style."
+        },
+        {
+          "title": "Measurement & Layout",
+          "description": "We measure each room and plan the layout for optimal visual flow."
+        },
+        {
+          "title": "Installation & Touch-Up",
+          "description": "Our carpenters install the trim, fill nail holes, and sand for a flawless finish."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install crown molding on textured ceilings?",
+          "description": "Yes. We can work with textured ceilings and ensure a clean line. We may recommend smoothing the ceiling for best results."
+        },
+        {
+          "question": "Do you offer custom stain matching for trim?",
+          "description": "Absolutely. We can match existing stains or create a custom color to complement your décor."
+        }
+      ],
+      "slug": "trim-molding-finish-work"
+    }
+  ],
+  "about": {
+    "headline": "Dallas's Trusted Carpentry Experts",
+    "mission": "To deliver exceptional craftsmanship that enhances homes and lives, building lasting relationships through quality, integrity, and personalized service.",
+    "story": [
+      "Ruiz Roofing Services started as a small family operation in 2005, founded by master carpenter Carlos Ruiz. Growing up in Dallas, Carlos learned the trade from his father, a skilled woodworker who believed that every piece of wood had potential. After years of honing his skills on residential and commercial projects, Carlos decided to start his own company with a simple mission: provide honest, high-quality carpentry at fair prices.",
+      "Over the years, Ruiz Roofing has grown into a trusted name in Dallas, known for meticulous attention to detail and reliable service. We've built everything from custom libraries to backyard decks, always treating each project as if it were our own home. Today, our team continues that tradition, combining old-world craftsmanship with modern techniques to create spaces that our clients love."
+    ],
+    "highlight": {
+      "stat": "18+",
+      "label": "Years of Experience"
+    },
+    "coreValues": [
+      {
+        "title": "Quality First",
+        "description": "We never compromise on materials or workmanship. Every project meets our high standards."
+      },
+      {
+        "title": "Integrity",
+        "description": "We communicate openly, honor our commitments, and stand behind our work."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your home with care, keep worksites clean, and respect your schedule."
+      },
+      {
+        "title": "Continuous Improvement",
+        "description": "We stay updated on best practices and invest in tools and training to serve you better."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Let's Build Something Together",
+    "subheadline": "Ready to discuss your project? Call us or fill out the form below. We'll get back to you within 24 hours.",
+    "primaryCta": "Call (214) 449-1729",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Oak Lawn",
+      "Uptown",
+      "Deep Ellum",
+      "Bishop Arts District",
+      "Preston Hollow",
+      "White Rock Lake"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Carpenter",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2144491729",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
